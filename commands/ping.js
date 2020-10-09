@@ -1,6 +1,8 @@
+const Discord = require("discord.js");
+
 exports.run = async (client, message, args) => {
-  
-const eM = await message.channel.send("Please wait...");
+
+const m = await message.channel.send("Please wait...");
         let embed = new Discord.MessageEmbed()
         
             .addField("⌛ Latency", `**${m.createdTimestamp -  message.createdTimestamp}ms**`)
@@ -8,10 +10,5 @@ const eM = await message.channel.send("Please wait...");
             .setAuthor(message.author.username, message.author.displayAvatarURL)
             .setColor("RANDOM")
             .setTimestamp();
-            return eM.edit(`🏓 Poong!`, embed);
-             } catch (error) {
-      return 
-               message.channel.send(`Error: ${error.message}`);
-    }
-  }
-
+            return m.edit(`🏓 Poong!`, embed)
+}
