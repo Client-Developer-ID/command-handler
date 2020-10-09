@@ -25,3 +25,4 @@ Untuk pengaktifan bot **24 jam**, tonton videoku di **[sini](https://youtube.com
 [Donate](https://saweria.co/donate/rayhantech) | [Discord Server](https://discord.gg/6NpEfbM) | [Discord Bots](https://top.gg/user/585371124766998528) | [Donasi Tim](https://saweria.co/clientdev)
 
 ### `INGAT! TIDAK SEMUA BOT BISA DIPASANGKAN DENGAN HANDLER INI!`
+
