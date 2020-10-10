@@ -1,7 +1,7 @@
 # Command Handler [JS]
-#### by [rayhantech#4999](https://discord.gg/6NpEfbM)
+#### by [002#4999](https://discord.gg/rfCascr)
                                      
-![js](https://cdn.discordapp.com/emojis/721378913749565452.png?v=1)                                                                            
+![js](https://cdn.discordapp.com/emojis/759046037062418442.gif?v=1)                                                                            
 Ini adalah command handler yang simpel, dapat digunakan untuk bot discord.     
 Menggunakan **Discord.js** versi **12**!
 
